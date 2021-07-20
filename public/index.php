@@ -14,7 +14,7 @@ define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 /*
  *---------------------------------------------------------------
  * BOOTSTRAP THE APPLICATION
- *---------------------------------------------------------------
+ *---------------------------------m------------------------------
  * This process sets up the path constants, loads and registers
  * our autoloader, along with Composer's, loads our constants
  * and fires up an environment-specific bootstrapping.
